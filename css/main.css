@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  text-align: center; }
+
+.calcu {
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+  .calcu input {
+    margin-top: 10px; }
