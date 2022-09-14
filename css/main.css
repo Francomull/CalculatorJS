@@ -1,10 +1,9 @@
 body {
   font-family: sans-serif;
   text-align: center; }
-
-.calcu {
-  display: flex;
-  align-items: center;
-  flex-direction: column; }
-  .calcu input {
+  body form {
+    display: flex;
+    align-items: center;
+    flex-direction: column; }
+  body input {
     margin-top: 10px; }

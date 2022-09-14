@@ -1,12 +1,12 @@
 body{
     font-family: sans-serif;
     text-align: center;
-}
 
-.calcu{
+    form{
     display: flex;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column; 
+    }
 
     input{
         margin-top: 10px;
